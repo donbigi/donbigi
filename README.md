@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donbigi
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Projects on Data Science and NLP
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently building data piplines for IoT devices
+- 💞️ I’m looking to collaborate on Projects on Data Science
 - 📫 How to reach me reach me:  <a href="https://www.linkedin.com/in/cos-ibe/" target="_blank"> LinkedIn </a>
 
 <!---
