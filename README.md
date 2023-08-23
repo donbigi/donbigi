@@ -17,14 +17,15 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 
 ## Skills
 
-<img src="https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20GCP%20%7C%20Azure-0093D5">
-<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform%20%7C%20Ansible-5CDBF0">
-<img src="https://img.shields.io/badge/CI%2FCD%20Tools-Jenkins%20%7C%20GitLab-7936FF">
-<img src="https://img.shields.io/badge/Containerization-Docker%20%7C%20Kubernetes-FFA726">
-<img src="https://img.shields.io/badge/Scripting%20Languages-Python%20%7C%20bash-00C853">
-<img src="https://img.shields.io/badge/Monitoring%2FLogging-Prometheus%20%7C%20ELK%20stack-FF5722">
-<img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Redis-6A1B9A">
-<img src="https://img.shields.io/badge/Operating%20Systems-Linux-607D8B">
+- Cloud Platforms: AWS, Google Cloud Platform (GCP), Microsoft Azure
+- Infrastructure as Code: Terraform, Ansible
+- CI/CD Tools: Jenkins, GitLab
+- Containerization: Docker, Kubernetes
+- Scripting Languages: Python, bash
+- Monitoring/Logging: Prometheus, ELK stack
+- Databases: PostgreSQL, Redis
+- Operating Systems: Linux
+
 
 ## Professional Experience
 
