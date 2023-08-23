@@ -37,18 +37,6 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 - Configured automated testing, build, & deployment processes.
 - Collaborated in bug identification and resolution for infrastructure stability.
 
-### First Bank Nigeria, Database Administrator (April 2021 – May 2022)
-
-- Implemented database encryption techniques for data security.
-- Optimized SQL queries, improving response times for large datasets.
-- Collaborated with cross-functional teams for data-driven insights.
-
-### The Sparks Foundation, Data Science & Business Analytics (September 2020 – April 2021)
-
-- Developed interactive visualizations using Tableau.
-- Conducted data analysis for revenue growth and cost optimization.
-- Presented insights to senior management.
-
 ## Education
 
 - Bachelor of Technology in Computer Science
@@ -56,10 +44,10 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 
 ## Certificates
 
-[![Certified Kubernetes Administrator](https://img.shields.io/badge/-Certified%20Kubernetes%20Administrator-blue)](https://verify.acloud.guru/A1B2C3D4E5F6)
-[![Google Cloud Certified Professional Data Engineer](https://img.shields.io/badge/-GCP%20Data%20Engineer-orange)](https://www.credential.net/1A2B3C4D5E6F)
-[![Google Cloud Certified Associate Cloud Engineer](https://img.shields.io/badge/-GCP%20Cloud%20Engineer-yellow)](https://www.credential.net/1A2B3C4D5E6F)
-[![LPI Linux Essentials Certification](https://img.shields.io/badge/-Linux%20Essentials-lightgrey)](https://www.youracclaim.com/badges/1A2B3C4D5E6F)
+[![Certified Kubernetes Administrator](https://img.shields.io/badge/-Certified%20Kubernetes%20Administrator-blue)](https://www.credly.com/badges/de9045a9-b637-4067-af43-56ec305629b3)
+[![Google Cloud Certified Professional Data Engineer](https://img.shields.io/badge/-GCP%20Data%20Engineer-orange)](https://www.credential.net/a95627ea-5765-4ae9-b4a3-5c62703dd859)
+[![Google Cloud Certified Associate Cloud Engineer](https://img.shields.io/badge/-GCP%20Cloud%20Engineer-yellow)](https://www.credential.net/4d1b6d44-5ed9-4d38-b15f-472bec974641)
+[![LPI Linux Essentials Certification](https://img.shields.io/badge/-Linux%20Essentials-lightgrey)](http://lpi.org/v/LPI000571246/qgna5cewxv)
 [![Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://img.shields.io/badge/-AZ--305%20Azure-blue)](https://www.microsoft.com/en-us/learning/exam-az-305.aspx)
 
 ## Projects
