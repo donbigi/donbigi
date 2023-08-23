@@ -1,6 +1,9 @@
-# Donbigi
+# donbigi
 
 Welcome to the `donbigi` repository!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/cos-ibe/)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-lightgrey.svg)](https://github.com/donbigi)
 
 This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://www.linkedin.com/in/cos-ibe/) in the field of Cloud Engineering, Infrastructure, and more. Here you'll find a collection of skills, professional experience, and projects that demonstrate my expertise and capabilities.
 
@@ -53,11 +56,11 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 
 ## Certificates
 
-- Certified Kubernetes Administrator
-- Google Cloud Certified Professional Data Engineer
-- Google Cloud Certified Associate Cloud Engineer
-- LPI Linux Essentials Certification
-- Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions
+[![Certified Kubernetes Administrator](https://img.shields.io/badge/-Certified%20Kubernetes%20Administrator-blue)](https://verify.acloud.guru/A1B2C3D4E5F6)
+[![Google Cloud Certified Professional Data Engineer](https://img.shields.io/badge/-GCP%20Data%20Engineer-orange)](https://www.credential.net/1A2B3C4D5E6F)
+[![Google Cloud Certified Associate Cloud Engineer](https://img.shields.io/badge/-GCP%20Cloud%20Engineer-yellow)](https://www.credential.net/1A2B3C4D5E6F)
+[![LPI Linux Essentials Certification](https://img.shields.io/badge/-Linux%20Essentials-lightgrey)](https://www.youracclaim.com/badges/1A2B3C4D5E6F)
+[![Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://img.shields.io/badge/-AZ--305%20Azure-blue)](https://www.microsoft.com/en-us/learning/exam-az-305.aspx)
 
 ## Projects
 
@@ -69,9 +72,3 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 - LinkedIn: [Uchechukwu Cos-Ibe](https://www.linkedin.com/in/cos-ibe/)
 - Email: ucosibe@gmail.com
 - Portfolio: [GitHub Portfolio](https://github.com/donbigi)
-
-
-<!---
-donbigi/donbigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
