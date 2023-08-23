@@ -53,5 +53,4 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 ## Contact
 
 - LinkedIn: [Uchechukwu Cos-Ibe](https://www.linkedin.com/in/cos-ibe/)
-- Email: ucosibe@gmail.com
 - Portfolio: [GitHub Portfolio](https://github.com/donbigi)
