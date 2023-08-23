@@ -13,7 +13,6 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 - [Professional Experience](#professional-experience)
 - [Education](#education)
 - [Certificates](#certificates)
-- [Projects](#projects)
 - [Contact](#contact)
 
 ## Skills
@@ -49,11 +48,6 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 [![Google Cloud Certified Associate Cloud Engineer](https://img.shields.io/badge/-GCP%20Cloud%20Engineer-yellow)](https://www.credential.net/4d1b6d44-5ed9-4d38-b15f-472bec974641)
 [![LPI Linux Essentials Certification](https://img.shields.io/badge/-Linux%20Essentials-lightgrey)](http://lpi.org/v/LPI000571246/qgna5cewxv)
 [![Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://img.shields.io/badge/-AZ--305%20Azure-blue)](https://www.microsoft.com/en-us/learning/exam-az-305.aspx)
-
-## Projects
-
-- [Provisioning Ubuntu VMs with Terraform and Running Ansible Playbook](#) - Demonstrates provisioning and configuration using Terraform and Ansible on GCP.
-- [CI implementation using Flask Application Dockerization](#) - Dockerized Python Flask application with CI/CD workflows.
 
 ## Contact
 
