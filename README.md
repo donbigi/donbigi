@@ -29,7 +29,9 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 
 ## Professional Experience
 
-### Imbod, Cloud Engineer (May 2022 – Present)
+### Solar Monkey, DevOps Engineer (September 2023 - Present)
+
+### Imbod, Cloud Engineer (May 2022 – September 2023)
 
 - Automated repetitive tasks through scripting, enhancing team productivity.
 - Designed and implemented infrastructure as code templates using Terraform and Ansible.
