@@ -31,6 +31,11 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 
 ### Solar Monkey, DevOps Engineer (September 2023 - Present)
 
+- Write well-tested, debugged, and documented software for backlog stories, following best practices.
+- Coordinate support and feature requests by interacting with stakeholders and documenting them.
+- Proactively enhance infrastructure and related code by proposing and implementing better practices.
+- Collaborate with team members to improve processes, create efficiencies, and reduce costs and bottlenecks.
+
 ### Imbod, Cloud Engineer (May 2022 – September 2023)
 
 - Automated repetitive tasks through scripting, enhancing team productivity.
