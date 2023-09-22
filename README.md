@@ -47,7 +47,7 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 ## Education
 
 - Bachelor of Technology in Computer Science
-- Federal University of Technology Owerri (September 2016 – May 2021)
+  Federal University of Technology Owerri (September 2016 – May 2021)
 
 ## Certificates
 
