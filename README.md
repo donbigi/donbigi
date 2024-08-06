@@ -31,10 +31,15 @@ This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://
 
 ### Solar Monkey, DevOps Engineer (September 2023 - Present)
 
-- Write well-tested, debugged, and documented software for backlog stories, following best practices.
-- Coordinate support and feature requests by interacting with stakeholders and documenting them.
-- Proactively enhance infrastructure and related code by proposing and implementing better practices.
-- Collaborate with team members to improve processes, create efficiencies, and reduce costs and bottlenecks.
+- Created systematic documentation on Backstage.io, simplifying infrastructure understanding for team members.
+- Automated infrastructure provisioning and configuration management with Terraform and Ansible, improving
+deployment efficiency by 40%.
+- Migrated PostgreSQL database to CloudSQL, enhancing performance and reducing latency by 20%.
+- Developed a deployment process for static files in Google App Engine, enhancing Storybook static files
+management.
+- Implemented an HTTPS load balancer with URL mapping and HTTPS redirect using Terraform, boosting security
+and performance.
+- Managed Kubernetes clusters (GKE), ensuring high availability and optimal resource utilization.
 
 ### Imbod, Cloud Engineer (May 2022 – September 2023)
 
