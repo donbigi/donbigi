@@ -52,11 +52,11 @@ and performance.
 ## Education
 
 - Bachelor of Technology in Computer Science, Federal University of Technology Owerri (September 2016 – May 2021).
+- MS in Computer Science Georgia State University, (January 2025 - Present
 
 ## Certificates
 
 [![Certified Kubernetes Administrator](https://img.shields.io/badge/-Certified%20Kubernetes%20Administrator-blue)](https://www.credly.com/badges/de9045a9-b637-4067-af43-56ec305629b3)
-[![Google Cloud Certified Professional Data Engineer](https://img.shields.io/badge/-GCP%20Data%20Engineer-orange)](https://www.credential.net/a95627ea-5765-4ae9-b4a3-5c62703dd859)
 [![Google Cloud Certified Associate Cloud Engineer](https://img.shields.io/badge/-GCP%20Cloud%20Engineer-yellow)](https://www.credential.net/4d1b6d44-5ed9-4d38-b15f-472bec974641)
 [![LPI Linux Essentials Certification](https://img.shields.io/badge/-Linux%20Essentials-lightgrey)](http://lpi.org/v/LPI000571246/qgna5cewxv)
 [![Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://img.shields.io/badge/-AZ--305%20Azure-blue)](https://www.microsoft.com/en-us/learning/exam-az-305.aspx)
